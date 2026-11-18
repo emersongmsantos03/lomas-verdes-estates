@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lomasverdesestates.com/sitemap.xml
